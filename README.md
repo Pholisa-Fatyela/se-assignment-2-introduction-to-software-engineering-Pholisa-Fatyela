@@ -83,7 +83,7 @@ Answer the following questions based on your understanding of software engineeri
 # References:
 1. PLP Academy: INTRODUCTION TO SOFTWARE ENGINEERING slides. Available at https://docs.google.com/presentation/d/1DqIQCq5Yt-JeeNfLH0ixIxtBwxpHvqWa/edit#slide=id.p8
 
-2. ChatGPT. Available at: https://techblog.com/importance-of-software-testing
+2. ChatGPT. Available at: https://chatgpt.com/
 
 
 # Submission Guidelines:
